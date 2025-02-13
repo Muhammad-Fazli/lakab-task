@@ -1,0 +1,20 @@
+{
+    "name": "noor/lakab",
+    "description": "A simple list project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Noor\\Lakab\\": "scr/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lakab",
+            "email": "lakab2003@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "hekmatinasser/verta": "^8.4"
+    }
+}
